@@ -26,7 +26,7 @@
 7. **teachers** — преподаватели (ФИО, предмет, департамент)  
 8. **enrollment** — элективные предметы, выбранные студентами (id предмета, email студента)  
 
-![ER Diagram]<img width="1102" height="786" alt="Снимок экрана 2025-09-21 195253" src="https://github.com/user-attachments/assets/f184b1dd-5793-4ced-a74a-bcf118c3a3a3" />
+<img width="1102" height="786" alt="Снимок экрана 2025-09-21 195253" src="https://github.com/user-attachments/assets/f184b1dd-5793-4ced-a74a-bcf118c3a3a3" />
 
 
 ## 🛠️ Tools & Resources
